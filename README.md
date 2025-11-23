@@ -17,6 +17,9 @@ Clean Architecture:
 
 ## Imagens do projeto compilado rodando, via Swagger
 
+<img width="1716" height="994" alt="image" src="https://github.com/user-attachments/assets/c15d1f5f-726b-4199-bae6-076c10b238d3" />
+<img width="1561" height="620" alt="image" src="https://github.com/user-attachments/assets/55f71828-8050-4f80-aa4a-a2410263fe13" />
+<img width="1499" height="786" alt="image" src="https://github.com/user-attachments/assets/4897be3f-e192-46c3-97b6-68551f7cd957" />
 
 
 ## Endpoints principais
