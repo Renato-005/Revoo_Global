@@ -1,4 +1,4 @@
-# Revoo (WorkWell)
+# Revoo
 
 ## Visão geral
 Revoo é uma API para gestão de hábitos corporativos, metas semanais e progresso dos colaboradores.
